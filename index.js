@@ -16,7 +16,6 @@ function play(question,answer){
 
   }
 }
-
 const questionsAnswer = [
   {
   question: "What is full name of Narendra Modi ?",
